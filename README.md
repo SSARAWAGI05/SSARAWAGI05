@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1-h2-bBKzmTyAKrU1YxQ8Sn31nWuDTzck" alt="Shubam Sarawagi" width="100%" height="auto"/>
   <h1>🌐 Shubam Sarawagi | AI/ML Enthusiast</h1>
 </div>
 
