@@ -1,20 +1,88 @@
-<h1 align="center">Hi 👋, I'm Shubam Sarawagi</h1>
-<h3 align="center">AIML ENTHUSIAST</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=800&lines=👋+Hi+there!+I'm+Aditya+%7C+AI%2FML+Engineer;🚀+Building+Intelligent+Systems+with+Generative+AI;⚡+MLOps+%7C+Cloud+Architecture+%7C+Full+Cycle+Development" alt="Header Typing SVG" />
+</h1>
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR3Nm13NXk0cW5remJkaHcyNGN1ZnZud3kzYXE2b3N5cm12ZG9zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="300" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=From+Concept+to+Production+%7C+End-to-End+ML+Solutions;Turning+Data+into+Decision+Making+Power;Innovating+with+Deep+Learning+%26+Generative+Models" alt="Subheader Typing SVG" />
+  </p>
+</div>
+<h2 align="center">🤝Let's Connect!</h2>
+<div align="center">
+  <a href="mailto:adityapratapsingh2803@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://www.linkedin.com/in/aditya-singhpratapsingh8a4a62287/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://x.com/bellaonsky"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="[https://x.com/bellaonsky](https://www.instagram.com/aditya_singh282/?hl=en)"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssarawagi05" alt="ssarawagi05" /></a> </p>
+<h2 align="center">🛠️ Tech Stack</h2>
+<table align="center">
+  <tr>
+    <td><b>🤖 AI/ML Core</b></td>
+    <td><b>📊 Data Science</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" /></td>
+    <td><img src="https://skillicons.dev/icons?i=py,r,matlab" /></td>
+  </tr>
+  <tr>
+    <td><b>☁️ Cloud & DevOps</b></td>
+    <td><b>🗄️ Databases & Backend</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions" /></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,flask,nodejs" /></td>
+  </tr>
+</table>
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OFSQtE6SVuzUylo32Gj7W-Tqtk9zb-sx/view?usp=sharing](https://drive.google.com/file/d/1OFSQtE6SVuzUylo32Gj7W-Tqtk9zb-sx/view?usp=sharing)
+<h2 align="center">📊 GitHub Statistics</h2>
+<div align="center">
+  <a href="#">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Adityapratapsingh28&show_icons=true&bg_color=000000&title_color=0077B6&text_color=FFFFFF&icon_color=00B4D8&hide_border=true&count_private=true" />
+  </a>
+  <a href="#">
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityapratapsingh28&background=000000&border=000000&stroke=0077B6&ring=0077B6&fire=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0077B6&sideLabels=0077B6&dates=FFFFFF" />
+  </a>
+</div>
+<div align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityapratapsingh28&layout=compact&bg_color=000000&title_color=0077B6&text_color=FFFFFF&hide_border=true" />
+</div>
+<div align="center">
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityapratapsingh28&theme=github_dark" />
+</div>
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shubamsarawagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubamsarawagi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shubam-sarawagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubam-sarawagi" height="30" width="40" /></a>
-<a href="https://instagram.com/shubxm_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubxm_27" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h2 align="center">🏆 Achievements</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adityapratapsingh28&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssarawagi05&show_icons=true&locale=en&layout=compact" alt="ssarawagi05" /></p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityapratapsingh28&theme=react-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=20C997" width="98%" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssarawagi05&show_icons=true&locale=en" alt="ssarawagi05" /></p>
+<!-- GitHub Snake Game -->
+<div align="center">
+  <h3>🐍 Contribution Graph 🐍</h3>
+  
+  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+  
+
+
+  <!-- Create this with GitHub Actions from https://github.com/Platane/snk -->
+  <!-- For a gradient colored snake, you'll need to set up a custom GitHub Action workflow -->
+</div>
+
+<div align="center">
+  <h3>👨‍💻 Top Contributed Repositories</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Adityapratapsingh28&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
+</div>
+
+
+<!-- Footer Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C997&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!; Let's+build+something+amazing+together!" alt="Footer Message" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=100&section=footer&animation=twinkling" width="100%"/>
+</div>
