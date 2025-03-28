@@ -16,10 +16,12 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI ML Tools"/>
 </div>
 
-**📊 Data Science & Visualization**  
-- Seaborn  
-- Scikit-Learn  
-- Pandas  
+### 📊 Data Science & Visualization
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Seaborn_logo.svg" alt="Seaborn" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="100"/>
+</div>
 
 ## 🌈 Technology Spectrum
 
