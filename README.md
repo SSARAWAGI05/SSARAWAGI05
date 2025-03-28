@@ -1,87 +1,20 @@
-```markdown
-<!-- 𝗛𝗘𝗔𝗗𝗘𝗥: 𝗡𝗘𝗢𝗡 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟 𝗜𝗡𝗧𝗥𝗢 -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SSARAWAGI05/SSARAWAGI05/main/assets/neon_banner.gif" width="800px" alt="Cyberpunk Banner">
-  
-  ```python
-  class ShubamSarawagi:
-      def __init__(self):
-          self.title = "AI/ML Engineer | Data Scientist"
-          self.skills = ["Machine Learning", "Deep Learning", "Data Analysis"]
-          self.motto = "Transforming Data into Insights"
-  
-  >>> print(ShubamSarawagi())
-  ```
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=500&color=00F7FF&vCenter=true&width=500&lines=%E2%96%B6%EF%B8%8F+Welcome+to+my+digital+lair;%E2%96%B6%EF%B8%8F+Loading+neural+network...;%E2%96%B6%EF%B8%8F+System+Operational%3A+100%" alt="Terminal Typing">
-</div>
+<h1 align="center">Hi 👋, I'm Shubam Sarawagi</h1>
+<h3 align="center">AIML ENTHUSIAST</h3>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ssarawagi05" alt="ssarawagi05" /></a> </p>
 
-<!-- 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞: 𝗛𝗢𝗟𝗢𝗚𝗥𝗔𝗠 𝗗𝗜𝗦𝗣𝗟𝗔𝗬 -->
-<h2 align="center"> 
-  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="40px"> 𝗧𝗘𝗖𝗛𝗡𝗢𝗟𝗢𝗚𝗬 𝗠𝗔𝗧𝗥𝗜𝗫
-</h2>
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OFSQtE6SVuzUylo32Gj7W-Tqtk9zb-sx/view?usp=sharing](https://drive.google.com/file/d/1OFSQtE6SVuzUylo32Gj7W-Tqtk9zb-sx/view?usp=sharing)
 
-<div align="center">
-  
-| **AI/ML Core**              | **Data Universe**           | **Cloud Mainframe**       |
-|-----------------------------|-----------------------------|---------------------------|
-| ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) | ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) |
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/shubamsarawagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubamsarawagi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shubam-sarawagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubam-sarawagi" height="30" width="40" /></a>
+<a href="https://instagram.com/shubxm_27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shubxm_27" height="30" width="40" /></a>
+</p>
 
-| **Quantum DB**              | **DevOps Protocol**         | **Cyber Tools**           |
-|-----------------------------|-----------------------------|---------------------------|
-| ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssarawagi05&show_icons=true&locale=en&layout=compact" alt="ssarawagi05" /></p>
 
----
-
-<!-- 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦: 𝗛𝗔𝗖𝗞𝗘𝗥-𝗦𝗧𝗬𝗟𝗘 𝗗𝗔𝗦𝗛𝗕𝗢𝗔𝗥𝗗 -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px"> 𝗟𝗜𝗩𝗘 𝗦𝗬𝗦𝗧𝗘𝗠 𝗦𝗧𝗔𝗧𝗦
-</h2>
-
-<div align="center">
-  
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SSARAWAGI05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSARAWAGI05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF) |
-|---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SSARAWAGI05&theme=react-dark&bg_color=0d1117&hide_border=true&color=00F7FF&line=00F7FF&point=FFFFFF)
-
-```diff
-+ LATEST COMMIT: [Loading GitHub Activity...]
-! SYSTEM MESSAGE: All repositories secured
-```
-
-</div>
-
----
-
-<!-- 𝗖𝗢𝗡𝗧𝗔𝗖𝗧: 𝗡𝗘𝗢𝗡 𝗡𝗘𝗧𝗪𝗢𝗥𝗞 -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40px"> 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗧𝗥𝗔𝗡𝗦𝗠𝗜𝗦𝗦𝗜𝗢𝗡
-</h2>
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/%F0%9F%93%A7_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarawagishubam@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%91%A5_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubam-sarawagi)
-[![Twitter](https://img.shields.io/badge/%F0%9F%8C%9D_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shubam_ai)
-
-</div>
-
----
-
-<!-- 𝗙𝗢𝗢𝗧𝗘𝗥: 𝗖𝗬𝗕𝗘𝗥 𝗦𝗜𝗚𝗡𝗔𝗧𝗨𝗥𝗘 -->
-<div align="center">
-  
-```diff
-# 𝗦𝗬𝗦𝗧𝗘𝗠 𝗟𝗢𝗚𝗢𝗙𝗙 𝗦𝗘𝗤𝗨𝗘𝗡𝗖𝗘 𝗜𝗡𝗜𝗧𝗜𝗔𝗧𝗘𝗗...
-! Last login: $(date +"%Y-%m-%d %H:%M:%S") from terminal
-+ Stay tuned for next-gen AI developments
-```
-  
-<img src="https://raw.githubusercontent.com/SSARAWAGI05/SSARAWAGI05/main/assets/cyber_footer.gif" width="600px" alt="Cyber Footer">
-
-</div>
-```
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ssarawagi05&show_icons=true&locale=en" alt="ssarawagi05" /></p>
