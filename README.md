@@ -81,6 +81,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SSARAWAGI05&theme=react-dark&bg_color=000000&color=00F7F7&line=00F7F7&point=FFFFFF" alt="Activity Graph"/>
 </div>
 
+<!-- Create this with GitHub Actions from https://github.com/Platane/snk -->
+  <!-- For a gradient colored snake, you'll need to set up a custom GitHub Action workflow -->
+</div>
+
+<!-- GitHub Snake Game -->
+<div align="center">
+  <h3>🐍 Contribution Graph 🐍</h3>
+  
+  ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+  <h3>👨‍💻 Top Contributed Repositories</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=SSARAWAGI05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
+</div>
+
 ## 🌟 Cosmic Connections
 
 <div align="center">
@@ -91,15 +106,6 @@
 </div>
 
 ---
-
-<!-- Create this with GitHub Actions from https://github.com/Platane/snk -->
-  <!-- For a gradient colored snake, you'll need to set up a custom GitHub Action workflow -->
-</div>
-
-<div align="center">
-  <h3>👨‍💻 Top Contributed Repositories</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=SSARAWAGI05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
-</div>
 
 
 <div align="center">
