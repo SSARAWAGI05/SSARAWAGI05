@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=800&lines=👋+Hi+there!+I'm+Aditya+%7C+AI%2FML+Engineer;🚀+Building+Intelligent+Systems+with+Generative+AI;⚡+MLOps+%7C+Cloud+Architecture+%7C+Full+Cycle+Development" alt="Header Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C997&center=true&vCenter=true&width=800&lines=👋+Hi+there!+I'm+Shubam+%7C+AI%2FML+Engineer;🚀+Building+Intelligent+Systems+with+Generative+AI;⚡+MLOps+%7C+Cloud+Architecture+%7C+Full+Cycle+Development" alt="Header Typing SVG" />
 </h1>
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWR3Nm13NXk0cW5remJkaHcyNGN1ZnZud3kzYXE2b3N5cm12ZG9zayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8m7nAJTYvzNUh54HQm/giphy.gif" width="300" />
@@ -38,28 +38,28 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 <div align="center">
   <a href="#">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Adityapratapsingh28&show_icons=true&bg_color=000000&title_color=0077B6&text_color=FFFFFF&icon_color=00B4D8&hide_border=true&count_private=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=SSARAWAGI05&show_icons=true&bg_color=000000&title_color=0077B6&text_color=FFFFFF&icon_color=00B4D8&hide_border=true&count_private=true" />
   </a>
   <a href="#">
-    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Adityapratapsingh28&background=000000&border=000000&stroke=0077B6&ring=0077B6&fire=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0077B6&sideLabels=0077B6&dates=FFFFFF" />
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SSARAWAGI05&background=000000&border=000000&stroke=0077B6&ring=0077B6&fire=00B4D8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0077B6&sideLabels=0077B6&dates=FFFFFF" />
   </a>
 </div>
 <div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adityapratapsingh28&layout=compact&bg_color=000000&title_color=0077B6&text_color=FFFFFF&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSARAWAGI05&layout=compact&bg_color=000000&title_color=0077B6&text_color=FFFFFF&hide_border=true" />
 </div>
 <div align="center">
-  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityapratapsingh28&theme=github_dark" />
+  <img width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SSARAWAGI05&theme=github_dark" />
 </div>
 <hr>
 
 
 <h2 align="center">🏆 Achievements</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adityapratapsingh28&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SSARAWAGI05&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adityapratapsingh28&theme=react-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=20C997" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SSARAWAGI05&theme=react-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=20C997" width="98%" />
 </div>
 
 <!-- GitHub Snake Game -->
@@ -76,7 +76,7 @@
 
 <div align="center">
   <h3>👨‍💻 Top Contributed Repositories</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Adityapratapsingh28&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=SSARAWAGI05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
 </div>
 
 
