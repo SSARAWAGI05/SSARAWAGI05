@@ -14,7 +14,7 @@
 </div>
 
 ### 🔭 Real-Time Code Spectrum
-```mermaid
+
 graph TD
     A[GitHub Activity] -->|Triggers| B((Auto-Refresh))
     B --> C{Analysis Engine}
@@ -68,4 +68,3 @@ graph TD
   <img src="https://komarev.com/ghpvc/?username=SSARAWAGI05&label=Quantum+Entanglements&color=00f7f7&style=flat" alt="Auto-ViewCounter"/>
 </div>
 
-```
