@@ -92,6 +92,16 @@
 
 ---
 
+<!-- Create this with GitHub Actions from https://github.com/Platane/snk -->
+  <!-- For a gradient colored snake, you'll need to set up a custom GitHub Action workflow -->
+</div>
+
+<div align="center">
+  <h3>👨‍💻 Top Contributed Repositories</h3>
+  <img src="https://github-contributor-stats.vercel.app/api?username=SSARAWAGI05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
+</div>
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7F7&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
@@ -100,19 +110,3 @@
   <img src="https://komarev.com/ghpvc/?username=SSARAWAGI05&color=blueviolet" alt="Profile Views"/>
 </div>
 
-<!-- Create this with GitHub Actions from https://github.com/Platane/snk -->
-  <!-- For a gradient colored snake, you'll need to set up a custom GitHub Action workflow -->
-</div>
-
-<div align="center">
-  <h3>👨‍💻 Top Contributed Repositories</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=Adityapratapsingh28&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repo"/>
-</div>
-
-
-<!-- Footer Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C997&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!; Let's+build+something+amazing+together!" alt="Footer Message" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B6&height=100&section=footer&animation=twinkling" width="100%"/>
-</div>
