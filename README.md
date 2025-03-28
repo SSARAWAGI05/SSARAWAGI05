@@ -6,6 +6,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=5000&color=00F7F7&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Future+Tech+Architect;Transforming+Code+into+Intelligent+Systems;Bridging+Innovation+and+Artificial+Intelligence" alt="Header"/>
 </div>
 
+
+<div align="center">
+  <h3>Let's Build Together 🤝</h3>
+  <a href="mailto:sarawagishubam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shubam-sarawagi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/ShubamSarawagi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.instagram.com/shubxm_27/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
+
 <div align="center">
   <h2>🚀 Tech Quantum</h2>
 </div>
@@ -80,14 +89,6 @@
 <div align="center">
   <h3>👨‍💻 Top Contributed Repositories</h3>
   <img src="https://github-contributor-stats.vercel.app/api?username=SSARAWAGI05&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true"/>
-</div>
-
-<div align="center">
-  <h3>🌟 Cosmic Connections</h3>
-  <a href="mailto:sarawagishubam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shubam-sarawagi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/ShubamSarawagi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/shubxm_27/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
 <div align="center">
