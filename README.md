@@ -91,6 +91,8 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C997&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!; Let's+build+something+amazing+together!" alt="Footer Message" />
+  <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7F7&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
 
