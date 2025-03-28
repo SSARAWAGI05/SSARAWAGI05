@@ -1,6 +1,18 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&duration=3000&color=00F7F7&center=true&vCenter=true&width=500&lines=🌐+Shubam+Sarawagi+%7C+AI%2FML+Enthusiast" alt="Name Typing Effect"/>
+<div align="center" style="font-family: Orbitron; font-size: 24px; color: #00F7F7;">
+  <div style="display: inline-block; animation: wobble 2s ease-in-out infinite;">
+    🌐 Shubam Sarawagi | AI/ML Enthusiast
+  </div>
 </div>
+
+<style>
+  @keyframes wobble {
+    0% { transform: rotate(-3deg); }
+    25% { transform: rotate(2deg); }
+    50% { transform: rotate(-3deg); }
+    75% { transform: rotate(1deg); }
+    100% { transform: rotate(0deg); }
+  }
+</style>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&color=00F7F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Future+Tech+Architect;Transforming+Code+into+Intelligent+Systems;Bridging+Innovation+and+Artificial+Intelligence" alt="Dynamic Typing Header"/>
