@@ -1,16 +1,16 @@
 ```markdown
 <!-- 𝗛𝗘𝗔𝗗𝗘𝗥: 𝗡𝗘𝗢𝗡 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟 𝗜𝗡𝗧𝗥𝗢 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/neon_banner.gif" width="800px" alt="Cyberpunk Banner">
+  <img src="https://raw.githubusercontent.com/SSARAWAGI05/SSARAWAGI05/main/assets/neon_banner.gif" width="800px" alt="Cyberpunk Banner">
   
   ```python
-  class YourName:
+  class ShubamSarawagi:
       def __init__(self):
-          self.title = "Your Professional Title"
-          self.skills = ["Skill 1", "Skill 2", "Skill 3"]
-          self.motto = "Your Inspiring Motto"
+          self.title = "AI/ML Engineer | Data Scientist"
+          self.skills = ["Machine Learning", "Deep Learning", "Data Analysis"]
+          self.motto = "Transforming Data into Insights"
   
-  >>> print(YourName())
+  >>> print(ShubamSarawagi())
   ```
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=500&color=00F7FF&vCenter=true&width=500&lines=%E2%96%B6%EF%B8%8F+Welcome+to+my+digital+lair;%E2%96%B6%EF%B8%8F+Loading+neural+network...;%E2%96%B6%EF%B8%8F+System+Operational%3A+100%" alt="Terminal Typing">
 </div>
@@ -43,10 +43,10 @@
 
 <div align="center">
   
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SSARAWAGI05&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSARAWAGI05&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00F7FF) |
 |---------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0d1117&hide_border=true&color=00F7FF&line=00F7FF&point=FFFFFF)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=SSARAWAGI05&theme=react-dark&bg_color=0d1117&hide_border=true&color=00F7FF&line=00F7FF&point=FFFFFF)
 
 ```diff
 + LATEST COMMIT: [Loading GitHub Activity...]
@@ -64,9 +64,9 @@
 
 <div align="center">
   
-[![Gmail](https://img.shields.io/badge/%F0%9F%93%A7_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%91%A5_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)
-[![Twitter](https://img.shields.io/badge/%F0%9F%8C%9D_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitter)
+[![Gmail](https://img.shields.io/badge/%F0%9F%93%A7_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarawagishubam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%91%A5_LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shubam-sarawagi)
+[![Twitter](https://img.shields.io/badge/%F0%9F%8C%9D_TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shubam_ai)
 
 </div>
 
@@ -78,16 +78,10 @@
 ```diff
 # 𝗦𝗬𝗦𝗧𝗘𝗠 𝗟𝗢𝗚𝗢𝗙𝗙 𝗦𝗘𝗤𝗨𝗘𝗡𝗖𝗘 𝗜𝗡𝗜𝗧𝗜𝗔𝗧𝗘𝗗...
 ! Last login: $(date +"%Y-%m-%d %H:%M:%S") from terminal
-+ Stay tuned for next-gen developments
++ Stay tuned for next-gen AI developments
 ```
   
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/cyber_footer.gif" width="600px" alt="Cyber Footer">
+<img src="https://raw.githubusercontent.com/SSARAWAGI05/SSARAWAGI05/main/assets/cyber_footer.gif" width="600px" alt="Cyber Footer">
 
 </div>
 ```
-
-🔧 **Customization Checklist**:
-1. Replace `yourusername` with your actual GitHub username
-2. Update Python class with your name, title, skills
-3. Replace email and social media links
-4. If using custom GIFs, upload to your repo's `assets/` folder
