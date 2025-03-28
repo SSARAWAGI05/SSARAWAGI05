@@ -13,6 +13,11 @@
 
 ### 🤖 AI & Machine Learning Constellation
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=seaborn,scikit_learn,pandas&theme=dark" alt="AI ML Tools"/>
+</div>
+
+### 📊 Data Science & Visualization
+<div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI ML Tools"/>
 </div>
 
