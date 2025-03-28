@@ -1,13 +1,9 @@
 <div align="center">
-  <h1 style="font-family: Orbitron; color: #00F7F7; 
-           text-shadow: 0 0 5px #00f7f7a0;
-           animation: glow 2s ease-in-out infinite;">
-    🌐 Shubam Sarawagi | AI/ML Enthusiast
-  </h1>
+  <img src="https://readme-typing-svg-advanced.vercel.app/api/v1?font=Orbitron&color=00F7F7&size=30&lines=1&height=40&width=600&duration=2000&pause=1000&repeat=true&content=%F0%9F%8C%90+Shubam+Sarawagi+%7C+AI/ML+Enthusiast" alt="Animated Name"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&color=00F7F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Future+Tech+Architect;Transforming+Code+into+Intelligent+Systems;Bridging+Innovation+and+Artificial+Intelligence" alt="Header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&color=00F7F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Future+Tech+Architect;Transforming+Code+into+Intelligent+Systems;Bridging+Innovation+and+AI" alt="Subheader"/>
 </div>
 
 <!-- Fallback for GitHub's limited CSS support -->
