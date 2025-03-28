@@ -12,19 +12,18 @@
 
 ## 🚀 Tech Quantum
 
+### 💻 Programming Universes
 <div align="center">
-  <h3>💻 Programming Universes</h3>
   <img src="https://skillicons.dev/icons?i=java,cpp,python,c&theme=dark" alt="Programming Languages"/>
 </div>
 
-
+### 🤖 AI & Machine Learning Constellation
 <div align="center">
-  <h3>🤖 AI & Machine Learning Constellation</h3>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI ML Tools"/>
 </div>
 
+### 📊 Data Science & Visualization
 <div align="center">
-  <h3>📊 Data Science & Visualization</h3>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   </a>
@@ -35,6 +34,7 @@
     <img src="https://img.shields.io/badge/Seaborn-007FFF?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
   </a>
 </div>
+
 
 
 
