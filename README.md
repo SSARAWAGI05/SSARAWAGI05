@@ -17,8 +17,9 @@
   <img src="https://skillicons.dev/icons?i=java,cpp,python,c&theme=dark" alt="Programming Languages"/>
 </div>
 
-### 🤖 AI & Machine Learning Constellation
+
 <div align="center">
+  <h3>🤖 AI & Machine Learning Constellation</h3>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI ML Tools"/>
 </div>
 
