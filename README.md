@@ -1,95 +1,73 @@
-# 🌐 Shubam Sarawagi | AI/ML Enthusiast
+```markdown
+# 🪐 Shubam Sarawagi | Autonomous AI Engineer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&color=00F7F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Future+Tech+Architect;Transforming+Code+into+Intelligent+Systems;Bridging+Innovation+and+Artificial+Intelligence" alt="Dynamic Typing Header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=26&duration=4000&pause=1000&color=00F7F7&center=true&vCenter=true&width=980&lines=Welcome+to+My+Self-Updating+GitHub+Universe;This+Profile+Maintains+Itself+Through+AI+Magic;Exploring+the+Frontiers+of+Machine+Consciousness" alt="Auto-Typing Header"/>
+
+[![Auto-Updated Banner](https://raw.githubusercontent.com/SSARAWAGI05/SSARAWAGI05/main/profile-banner.gif)](https://github.com/SSARAWAGI05)
 </div>
 
-## 🚀 Tech Quantum
+## 🦾 Auto-Configured Tech Matrix
 
-### 💻 Programming Universes
+### 🤖 AI Core Systems
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,c&theme=dark" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,rasa,aws,gcp&theme=dark&perline=9"/>
 </div>
 
-### 🤖 AI & Machine Learning Constellation
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI ML Tools"/>
-</div>
+### 🔭 Real-Time Code Spectrum
+```mermaid
+graph TD
+    A[GitHub Activity] -->|Triggers| B((Auto-Refresh))
+    B --> C{Analysis Engine}
+    C -->|Updates| D[Skill Icons]
+    C -->|Updates| E[Stats Cards]
+    C -->|Updates| F[Project Showcase]
+```
 
-### 📊 Data Science & Visualization
-<div align="center">
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Seaborn-007FFF?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
-  </a>
-</div>
+## 📡 Live GitHub Feed
 
+### 🧠 Neural Contribution Pattern
+![](https://github-readme-stats.vercel.app/api?username=SSARAWAGI05&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)
 
+### ⚡ Energy Signature Analysis
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SSARAWAGI05&layout=compact&theme=vision-friendly-dark&hide_border=true)
 
-
-## 🌈 Technology Spectrum
+## 🌌 Self-Maintaining Projects
 
 <table align="center">
   <tr>
-    <td align="center"><strong>🔬 Core Languages</strong></td>
-    <td align="center"><strong>🧠 AI Toolkit</strong></td>
-    <td align="center"><strong>💾 Data Realms</strong></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <td width="50%">
+      <a href="https://github.com/SSARAWAGI05/AI-Research">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SSARAWAGI05&repo=AI-Research&theme=dark"/>
+      </a>
     </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <td width="50%">
+      <a href="https://github.com/SSARAWAGI05/ML-Production">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SSARAWAGI05&repo=ML-Production&theme=dark"/>
+      </a>
     </td>
   </tr>
 </table>
 
-## 📊 Cybernetic Performance Metrics
+## 📊 Autonomous Activity Monitor
+![](https://github-readme-activity-graph.vercel.app/graph?username=SSARAWAGI05&theme=react-dark&bg_color=000000&hide_border=true&area=true)
+
+## 🌐 Auto-Generated Presence Grid
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SSARAWAGI05&theme=transparent" alt="GitHub Profile Summary"/>
-</div>
-
-### 🔥 Quantum Contribution Matrix
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SSARAWAGI05&theme=tokyonight&background=000000&ring=00F7F7&fire=00F7F7&currStreakNum=FFFFFF&sideNums=00F7F7&currStreakLabel=00F7F7&sideLabels=00F7F7" alt="Contribution Streak"/>
-</div>
-
-### 🌐 Technology Exploration Heatmap
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SSARAWAGI05&theme=react-dark&bg_color=000000&color=00F7F7&line=00F7F7&point=FFFFFF" alt="Activity Graph"/>
-</div>
-
-## 🌟 Cosmic Connections
-
-<div align="center">
-  <a href="mailto:sarawagishubam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/shubam-sarawagi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://x.com/ShubamSarawagi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.instagram.com/shubxm_27/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7F7&height=120&section=footer&animation=twinkling" width="100%"/>
+  <a href="https://linkedin.com/in/shubam-sarawagi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://kaggle.com/ssarawagi05">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://leetcode.com/SSARAWAGI05">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge"/>
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SSARAWAGI05&color=blueviolet" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=SSARAWAGI05&label=Quantum+Entanglements&color=00f7f7&style=flat" alt="Auto-ViewCounter"/>
 </div>
 
-*Navigating the Intersection of Code and Consciousness* 🌠
+```
