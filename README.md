@@ -39,9 +39,9 @@
 
 
 
-
-## 🌈 Technology Spectrum
-
+<div> align="center">
+  <h3>🌈 Technology Spectrum</h3>
+</div>
 <table align="center">
   <tr>
     <td align="center"><strong>🔬 Core Languages</strong></td>
