@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=5000&color=00F7F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Future+Tech+Architect;Transforming+Code+into+Intelligent+Systems;Bridging+Innovation+and+Artificial+Intelligence" alt="Header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=5000&color=00F7F7&center=true&vCenter=true&width=1000&lines=AI+Engineer+%7C+Future+Tech+Architect;Transforming+Code+into+Intelligent+Systems;Bridging+Innovation+and+Artificial+Intelligence" alt="Header"/>
 </div>
 
 <div align="center">
