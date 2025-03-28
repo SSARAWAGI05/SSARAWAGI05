@@ -18,8 +18,17 @@
 
 ### 📊 Data Science & Visualization
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,scikitlearn,seaborn&theme=light" alt="Data Science Tools"/>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Seaborn-007FFF?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn"/>
+  </a>
 </div>
+
 
 
 
