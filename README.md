@@ -19,15 +19,22 @@
 ### 📊 Data Science & Visualization
 <div align="center">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="40"/>
+    <div style="display: inline-block; background-color: white; padding: 5px; border-radius: 5px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50" height="40"/>
+    </div>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="40"/>
+    <div style="display: inline-block; background-color: white; padding: 5px; border-radius: 5px;">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="50" height="40"/>
+    </div>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="40"/>
+    <div style="display: inline-block; background-color: white; padding: 5px; border-radius: 5px;">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="50" height="40"/>
+    </div>
   </a>
 </div>
+
 
 ## 🌈 Technology Spectrum
 
