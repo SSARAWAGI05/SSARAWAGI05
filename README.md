@@ -23,8 +23,8 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI ML Tools"/>
 </div>
 
-### 📊 Data Science & Visualization
 <div align="center">
+  <h3>📊 Data Science & Visualization</h3>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
   </a>
