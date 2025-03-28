@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/dec3bea6-f7c9-40f2-90ff-be802151df1f)# 🌐 Shubam Sarawagi | AI/ML Enthusiast
+# 🌐 Shubam Sarawagi | Quantum Innovator
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&color=00F7F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Future+Tech+Architect;Transforming+Code+into+Intelligent+Systems;Bridging+Innovation+and+Artificial+Intelligence" alt="Dynamic Typing Header"/>
@@ -14,11 +14,6 @@
 ### 🤖 AI & Machine Learning Constellation
 <div align="center">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI ML Tools"/>
-</div>
-
-### 📊 Data Science & Visualization![image](https://github.com/user-attachments/assets/5617d297-e2b8-492f-ab4f-d6e2a6a4a2cc)
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=pandas,scikitlearn,seaborn&theme=dark" alt="Data Science Tools"/> 
 </div>
 
 ## 🌈 Technology Spectrum
