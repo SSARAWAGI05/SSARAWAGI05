@@ -12,8 +12,8 @@
 
 ## 🚀 Tech Quantum
 
+### 💻 Programming Universes
 <div align="center">
-  ### 💻 Programming Universes
   <img src="https://skillicons.dev/icons?i=java,cpp,python,c&theme=dark" alt="Programming Languages"/>
 </div>
 
