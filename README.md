@@ -1,22 +1,23 @@
-<div align="center" style="font-family: Orbitron; font-size: 24px; color: #00F7F7;">
-  <div style="display: inline-block; animation: wobble 2s ease-in-out infinite;">
+<div align="center">
+  <h1 style="font-family: Orbitron; color: #00F7F7; 
+           text-shadow: 0 0 5px #00f7f7a0;
+           animation: glow 2s ease-in-out infinite;">
     🌐 Shubam Sarawagi | AI/ML Enthusiast
-  </div>
+  </h1>
 </div>
-
-<style>
-  @keyframes wobble {
-    0% { transform: rotate(-3deg); }
-    25% { transform: rotate(2deg); }
-    50% { transform: rotate(-3deg); }
-    75% { transform: rotate(1deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&color=00F7F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Future+Tech+Architect;Transforming+Code+into+Intelligent+Systems;Bridging+Innovation+and+Artificial+Intelligence" alt="Dynamic Typing Header"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&color=00F7F7&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+Future+Tech+Architect;Transforming+Code+into+Intelligent+Systems;Bridging+Innovation+and+Artificial+Intelligence" alt="Header"/>
 </div>
+
+<!-- Fallback for GitHub's limited CSS support -->
+<style>
+  @keyframes glow {
+    0% { text-shadow: 0 0 5px #00f7f7a0; }
+    50% { text-shadow: 0 0 20px #00f7f7, 0 0 30px #00f7f780; }
+    100% { text-shadow: 0 0 5px #00f7f7a0; }
+  }
+</style>
 
 ## 🚀 Tech Quantum
 
