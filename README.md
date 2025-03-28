@@ -1,4 +1,3 @@
-```markdown
 # 🪐 Shubam Sarawagi | Autonomous AI Engineer
 
 <div align="center">
@@ -22,7 +21,6 @@ graph TD
     C -->|Updates| D[Skill Icons]
     C -->|Updates| E[Stats Cards]
     C -->|Updates| F[Project Showcase]
-```
 
 ## 📡 Live GitHub Feed
 
