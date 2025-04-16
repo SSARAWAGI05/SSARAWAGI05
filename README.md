@@ -67,9 +67,33 @@
 </table>
 
 <div align="center">
-  <h3>🧪 Languages Used </h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSARAWAGI05&layout=compact&theme=tokyonight&bg_color=000000&title_color=00F7F7&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
+  <h2 style="font-size: 2em; font-weight: bold; margin-bottom: 0.5em;">
+    <span style="display: inline-block; background: linear-gradient(90deg, #00F7F7, #20C997); -webkit-background-clip: text; color: transparent; animation: glow 2s ease-in-out infinite alternate;">
+      🧪 Languages Used (%)
+    </span>
+  </h2>
+  <p style="color: #AAAAAA; font-style: italic; margin-top: -10px; margin-bottom: 20px;">
+    An insight into my coding universe 🌌
+  </p>
+  <div style="
+    display: inline-block;
+    padding: 16px;
+    border-radius: 16px;
+    background: linear-gradient(145deg, #0a0a0a, #1a1a1a);
+    box-shadow: 0 0 20px rgba(0, 247, 247, 0.3), 0 0 40px rgba(32, 201, 151, 0.3);
+    transition: transform 0.3s ease;
+  " onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSARAWAGI05&layout=compact&theme=tokyonight&bg_color=000000&title_color=00F7F7&text_color=FFFFFF&hide_border=true" alt="Top Languages" style="border-radius: 12px;"/>
+  </div>
 </div>
+
+<style>
+@keyframes glow {
+  from { text-shadow: 0 0 5px #00F7F7, 0 0 10px #00F7F7; }
+  to { text-shadow: 0 0 10px #20C997, 0 0 20px #20C997; }
+}
+</style>
+
 
 <div align="center">
   <h2>
