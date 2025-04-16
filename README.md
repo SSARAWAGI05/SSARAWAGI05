@@ -67,9 +67,20 @@
 </table>
 
 <div align="center">
-  <h3>🧪 Languages Used (%)</h3>
+  <h3>🧪 Languages Used </h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSARAWAGI05&layout=compact&theme=tokyonight&bg_color=000000&title_color=00F7F7&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <h2>
+    <img src="https://img.icons8.com/color/48/000000/code.png" width="28" style="vertical-align: middle;"/>
+    <span style="background: linear-gradient(90deg, #00F7F7, #20C997); -webkit-background-clip: text; color: transparent; font-weight: bold;">
+      Languages Used (%)
+    </span>
+  </h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSARAWAGI05&layout=donut&theme=tokyonight&bg_color=000000&title_color=00F7F7&text_color=FFFFFF&hide_border=true" alt="Top Languages" style="border-radius: 12px; box-shadow: 0 0 10px #00F7F7;"/>
+</div>
+
 
 <div align="center">
   <h3>📊 Cybernetic Performance Metrics</h3>
