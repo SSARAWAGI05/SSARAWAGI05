@@ -66,21 +66,6 @@
   </tr>
 </table>
 
-<h3 align="center">🧪 <ins>Languages Used (%)</ins></h3>
-
-<p align="center">An insight into my coding universe 🌌</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSARAWAGI05&layout=compact&theme=tokyonight&bg_color=000000&title_color=00F7F7&text_color=FFFFFF&hide_border=true" alt="Top Languages" width="450" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Coding%20Love-%F0%9F%92%AB%20Deep%20Learning%20%7C%20Web%20Dev%20%7C%20Automation-blueviolet?style=for-the-badge&logo=github" />
-</p>
-
----
-
-
 <div align="center">
   <h2>
     <img src="https://img.icons8.com/color/48/000000/code.png" width="28" style="vertical-align: middle;"/>
