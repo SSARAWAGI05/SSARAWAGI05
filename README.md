@@ -67,6 +67,11 @@
 </table>
 
 <div align="center">
+  <h3>🧪 Languages Used (%)</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSARAWAGI05&layout=compact&theme=tokyonight&bg_color=000000&title_color=00F7F7&text_color=FFFFFF&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
   <h3>📊 Cybernetic Performance Metrics</h3>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SSARAWAGI05&theme=transparent" alt="GitHub Profile Summary"/>
 </div>
